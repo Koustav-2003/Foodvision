@@ -1,16 +1,6 @@
-
-# Deep Learning
-torch
-torchvision
-
-# Backend
 fastapi
 uvicorn[standard]
 python-multipart
-
-# Frontend
-streamlit
-requests
-
-# Image Processing
 Pillow
+torch
+torchvision
